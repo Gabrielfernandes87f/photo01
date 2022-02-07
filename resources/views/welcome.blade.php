@@ -185,10 +185,10 @@
                 <div class="container-fluid text-center">
                     <div class="container-fluid">
                         <h5 class=" container-fluid mt-5 mb-5 font-01">
-                            Esse site ainda ta em fase beta, vai ter muitas atualizações ainda.
+                            Esse site ta em fase beta, ainda vai ter muitas atualizações.
                             <br>
                             <br>
-                            "Pretendo postar alguns dos meus trabalhos de fotografia."
+                            "Pretendo postar alguns dos meus trabalhos de fotografia aqui e mostrar um pouco das minhas habilidades como desenvolvedor."
                         </h5>
                     </div>
                 </div>

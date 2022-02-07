@@ -9,7 +9,7 @@
         <ul>
             <li><a class="nav-link scrollto" href="/#hero">Home</a></li>
             <li><a class="nav-link scrollto" href="/albums">albums</a></li>
-            <li><a class="nav-link scrollto" href="/eu">Quem Somos</a></li>
+            <li><a class="nav-link scrollto" href="/eu">Sobre mim</a></li>
             <li><a class="nav-link scrollto" href="/#portfolio">Portfolio</a></li>
             <li><a class="nav-link scrollto" href="/#footer">Contato</a></li>
             @auth

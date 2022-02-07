@@ -18,7 +18,6 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.meuevento.tech/">
   <meta property="og:image" itemprop="image" content="https://meuevento.tech/image/_RSF7724.jpg">
-  <meta property="og:image" content="https://meuevento.tech/image/_RSF7724.jpg"/>
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="600">
   <meta property="og:image:height" content="400">

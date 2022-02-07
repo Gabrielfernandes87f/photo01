@@ -24,7 +24,7 @@
         <small>Gabrielfernandesfotografias@outlook.com</small>
       </div>
     <div class="copyright">
-      <small>Copyright © 2022 Fotógrafo Profissional && Desenvolvedor FullStack | Powered by Gabriel Fernandes</small>
+      <small>Copyright © 2022 Fotógrafo Profissional | Desenvolvedor FullStack | Powered by Gabriel Fernandes</small>
     </div>
   </div>
 
