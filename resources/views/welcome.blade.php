@@ -4,9 +4,6 @@
 <head>
 
 
-    <meta content="" name="description">
-    <meta content="" name="keywords">
-
     @include('layouts.head')
 </head>
 
