@@ -224,7 +224,7 @@
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-pre-wedding">
                         <div class="portfolio-wrap">
-                            <img src="/image/GSF_0390.jpg" class="img-fluid" alt="">
+                            <img src="/image/renally/renally-9.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
                                 <p>Ver album</p>
                                 <div class="portfolio-links">
@@ -244,7 +244,7 @@
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-casamento">
                         <div class="portfolio-wrap">
-                            <img src="/image/GSF_0359.jpg" class="img-fluid" alt="">
+                            <img src="/image/renally/renally-5.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
                                 <p>Ver album</p>
                                 <div class="portfolio-links">
@@ -254,13 +254,13 @@
                             <div class="bg-color">
                                 <p>Renally chagas</p>
                                 <h5 class="">Casamento</h5>
-                                <p class="description">Tudo o que um sonho precisa para ser realizado é.</p>
+                                <p class="description">Para mim, a capacidade de sorrir é uma das mais belas características do ser humano.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 portfolio-item filter-ensaio">
                         <div class="portfolio-wrap">
-                            <img src="/image/GSF_2714.jpg" class="img-fluid" alt="">
+                            <img src="/image/renally/renally-17.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
                             <div class="portfolio-info">
                                 <p>Ver album</p>
@@ -270,17 +270,16 @@
                             </div>
                             </div>
                             <div class="bg-color">
-                                <p>Lurdinha</p>
+                                <p>Renally chagas</p>
                                 <h5 class="">Ensaio fotografico</h5>
-                                <p class="description">Tudo o que um sonho precisa para ser realizado é alguém que
-                                    acredite que ele possa ser realizado.</p>
+                                <p class="description">Ainda que haja noite no coração, vale a pena sorrir para que haja estrelas na escuridão.</p>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-15anos">
                         <div class="portfolio-wrap">
-                            <img src="/image/GSF_0390.jpg" class="img-fluid" alt="">
+                            <img src="/image/renally/renally-21.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
                                 <p>Ver album</p>
                                 <div class="portfolio-links">
@@ -288,10 +287,9 @@
                                 </div>
                             </div>
                             <div class="bg-color">
-                                <p>Lurdinha</p>
+                                <p>Renally chagas</p>
                                 <h5 class="">Ensaio fotografico</h5>
-                                <p class="description">Tudo o que um sonho precisa para ser realizado é alguém que
-                                    acredite que ele possa ser realizado.</p>
+                                <p class="description">Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe.</p>
                             </div>
                         </div>
                     </div>
@@ -304,7 +302,7 @@
 
         <div id="testimonial" class="block">
             <div class="container">
-                <h2 class="title text-center">Feedback</h2>
+               {{--  <h2 class="title text-center">Feedback</h2> --}}
                 <div class="row">
                     @foreach ($testimonials as $testimonial)
                         <div class="col-lg-4 col-md-6 mb-4">

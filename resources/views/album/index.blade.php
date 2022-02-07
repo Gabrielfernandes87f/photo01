@@ -115,7 +115,7 @@
 
     <div class="container-fluid">
         <div class="card container-fluid">
-            <img class="card-img img-fluid image-banner" src="/image/GSF_0359.jpg" alt="Card image">
+            <img class="card-img img-fluid image-banner" src="/image/renally/renally-2.jpg" alt="Card image">
             <div class="container-fluid text-center">
                 <div class="container-fluid">
                     <div class=" container-fluid mt-5 mb-5 font-01">
@@ -134,16 +134,73 @@
                 </div>
 
                 <div class=" container-fluid">
-                    <img class=" img-fluid mb-5 image-banner" src="/image/GSF_0359.jpg" alt="Card image">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-1.jpg" alt="Card image">
                 </div>
                 <div class=" container-fluid">
-                    <img class=" img-fluid mb-5 image-banner" src="/image/GSF_0359.jpg" alt="Card image">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-3.jpg" alt="Card image">
                 </div>
                 <div class=" container-fluid">
-                    <img class=" img-fluid mb-5 image-banner" src="/image/GSF_0359.jpg" alt="Card image">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-4.jpg" alt="Card image">
                 </div>
                 <div class=" container-fluid">
-                    <img class=" img-fluid mb-5 image-banner" src="/image/GSF_0359.jpg" alt="Card image">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-5.jpg" alt="Card image">
+                </div>
+                <div class=" container-fluid">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-6.jpg" alt="Card image">
+                </div>
+                <div class=" container-fluid">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-7.jpg" alt="Card image">
+                </div>
+                <div class=" container-fluid">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-8.jpg" alt="Card image">
+                </div>
+                <div class=" container-fluid">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-9.jpg" alt="Card image">
+                </div>
+                <div class=" container-fluid">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-10.jpg" alt="Card image">
+                </div>
+                <div class=" container-fluid">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-11.jpg" alt="Card image">
+                </div>
+                <div class=" container-fluid">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-12.jpg" alt="Card image">
+                </div>
+                <div class=" container-fluid">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-13.jpg" alt="Card image">
+                </div>
+                <div class=" container-fluid">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-14.jpg" alt="Card image">
+                </div>
+                <div class=" container-fluid">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-15.jpg" alt="Card image">
+                </div>
+                <div class=" container-fluid">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-16.jpg" alt="Card image">
+                </div>
+                <div class=" container-fluid">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-17.jpg" alt="Card image">
+                </div>
+                <div class=" container-fluid">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-18.jpg" alt="Card image">
+                </div>
+                <div class=" container-fluid">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-19.jpg" alt="Card image">
+                </div>
+                <div class=" container-fluid">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-20.jpg" alt="Card image">
+                </div>
+                <div class=" container-fluid">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-21.jpg" alt="Card image">
+                </div>
+                <div class=" container-fluid">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-22.jpg" alt="Card image">
+                </div>
+                <div class=" container-fluid">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-23.jpg" alt="Card image">
+                </div>
+                <div class=" container-fluid">
+                    <img class=" img-fluid mb-5 image-banner" src="/image/renally/renally-24.jpg" alt="Card image">
                 </div>
             </div>
         </div>
