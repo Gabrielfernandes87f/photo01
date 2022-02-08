@@ -161,6 +161,8 @@
             }
 
             .title-principal {
+
+
                 color: #000;
 
             }
@@ -207,23 +209,24 @@
 
         <div class="container-fluid text-center mt-5 mb-5">
             <h4 class="title-principal">
-                "A persistência é o caminho do êxito."
+                "Eu realmente acredito que há coisas que ninguém veria se eu não as
+                fotografasse."
             </h4>
         </div>
 
         <div class="container-fluid mt-5">
             <div class="img-fluid">
                 <div class="container-fluid">
-                    <div class="container-fluid eu">
+                    <div class="container-fluid text-center">
                         <a href="/image/perfil.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
-                            <img src="/image/perfil.jpg" class="img-fluid banner-eu" alt="">
+                            <img src="/image/perfil.jpg" class="img-fluid banner-eu text-center" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="text-eu">
                     <h1 class="text-center mb-3 card-name">Gabriel Fernandes</h1>
                     <p class="container text-center text-p-1">
-                        Desenvolvedor fullstack/DevOps jr - Laravel
+                        Atualmente sou desenvolvedor fullstack/DevOps jr - Laravel
                     </p>
                 </div>
 
