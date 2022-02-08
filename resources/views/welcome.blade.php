@@ -181,7 +181,9 @@
 
         <div class="container-fluid">
             <div class="card container-fluid">
-                <img class="card-img img-fluid image-banner" src="/image/GSF_0359.jpg" alt="Card image">
+                <a href="/image/GSF_0359.jpg"  data-gallery="portfolioGallery" class="portfolio-lightbox">
+                    <img src="/image/GSF_0359.jpg"  class="img-fluid banner-eu" alt="">
+                </a>
                 <div class="container-fluid text-center">
                     <div class="container-fluid">
                         <h5 class=" container-fluid mt-5 mb-5 font-01">
