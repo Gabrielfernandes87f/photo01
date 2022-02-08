@@ -209,8 +209,7 @@
 
         <div class="container-fluid text-center mt-5 mb-5">
             <h4 class="title-principal">
-                "Eu realmente acredito que há coisas que ninguém veria se eu não as
-                fotografasse."
+                "A persistência é o caminho do êxito."
             </h4>
         </div>
 
@@ -223,13 +222,6 @@
                         </a>
                     </div>
                 </div>
-                <div class="text-eu">
-                    <h1 class="text-center mb-3 card-name">Gabriel Fernandes</h1>
-                    <p class="container text-center text-p-1">
-                        Atualmente sou desenvolvedor fullstack/DevOps jr - Laravel
-                    </p>
-                </div>
-
             </div>
         </div>
 
