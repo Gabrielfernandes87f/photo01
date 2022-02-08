@@ -190,7 +190,6 @@
                             Esse site ta em fase beta, ainda vai ter muitas atualizações.
                             <br>
                             <br>
-                            "Pretendo postar alguns dos meus trabalhos de fotografia aqui e mostrar um pouco das minhas habilidades como desenvolvedor."
                         </h5>
                     </div>
                 </div>
