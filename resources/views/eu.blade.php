@@ -38,11 +38,7 @@
 
     </style>
 
-    <div class="container-fluid text-center">
-    </div>
 
-    <div class="container-fluid text-center">
-    </div>
     <div class="container-fluid mt-5">
         <div class="img-fluid">
             <div class="container-fluid">

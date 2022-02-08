@@ -161,11 +161,42 @@
             }
 
             .title-principal {
-
-                font-weight: bold;
                 color: #000;
 
             }
+
+            .banner-eu {
+            border-radius: 30px;
+            box-shadow: rgb(82, 80, 80) 5px 0px 20px;
+
+
+        }
+
+        body {
+            background-color: #ebe8e8;
+        }
+        .text-eu {
+            padding: 5%;
+            text-align: justify;
+
+        }
+        .text-p-1 {
+            font-weight: 800;
+        }
+        .card-title {
+            font-size: 1.2rem;
+            margin: 2% 0;
+            font-family: 'Ubuntu';
+            font-weight: 600;
+
+        }
+        .card-name{
+            font-family: 'Ubuntu', sans-serif;
+        }
+        .eu {
+            padding: 0 5%;
+        }
+
 
         </Style>
 
@@ -175,25 +206,27 @@
         <hr class="featurette-divider mt-4 mb-5">
 
         <div class="container-fluid text-center mt-5 mb-5">
-            <h4 class="title-principal">"Eu realmente acredito que há coisas que ninguém veria se eu não as
-                fotografasse."</h4>
+            <h4 class="title-principal">
+                "A persistência é o caminho do êxito."
+            </h4>
         </div>
 
-        <div class="container-fluid">
-            <div class="card container-fluid">
-                <a href="/image/GSF_0359.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox container-fluid">
-                    <img class="card-img img-fluid image-banner" src="/image/GSF_0359.jpg" alt="Card image">
-                </a>
-                <div class="container-fluid text-center">
-                    <div class="container-fluid">
-                        <h5 class=" container-fluid mt-5 mb-5 font-01">
-                            Esse site ta em fase beta, ainda vai ter muitas atualizações.
-                            <br>
-                            <br>
-                            "Pretendo postar alguns dos meus trabalhos de fotografia aqui e mostrar um pouco das minhas habilidades como desenvolvedor."
-                        </h5>
+        <div class="container-fluid mt-5">
+            <div class="img-fluid">
+                <div class="container-fluid">
+                    <div class="container-fluid eu">
+                        <a href="/image/perfil.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+                            <img src="/image/perfil.jpg" class="img-fluid banner-eu" alt="">
+                        </a>
                     </div>
                 </div>
+                <div class="text-eu">
+                    <h1 class="text-center mb-3 card-name">Gabriel Fernandes</h1>
+                    <p class="container text-center text-p-1">
+                        Desenvolvedor fullstack/DevOps jr - Laravel
+                    </p>
+                </div>
+
             </div>
         </div>
 
