@@ -181,8 +181,8 @@
 
         <div class="container-fluid">
             <div class="card container-fluid">
-                <a href="/image/GSF_0359.jpg"  data-gallery="portfolioGallery" class="portfolio-lightbox">
-                    <img src="/image/GSF_0359.jpg"  class="img-fluid banner-eu" alt="">
+                <a href="/image/GSF_0359.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+                    <img class="card-img img-fluid image-banner" src="/image/GSF_0359.jpg" alt="Card image">
                 </a>
                 <div class="container-fluid text-center">
                     <div class="container-fluid">
@@ -190,6 +190,7 @@
                             Esse site ta em fase beta, ainda vai ter muitas atualizações.
                             <br>
                             <br>
+                            "Pretendo postar alguns dos meus trabalhos de fotografia aqui e mostrar um pouco das minhas habilidades como desenvolvedor."
                         </h5>
                     </div>
                 </div>
