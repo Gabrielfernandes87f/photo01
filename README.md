@@ -36,7 +36,7 @@ $ php artisan serve
 - Projeto rodando em na porta: 8000  = http://127.0.0.1:8000/
 ```
 
-<img alt="header" src="https://github.com/Gabrielfernandes87f/patins/blob/main/public/assets01/img/gabriel.gif">
+<img alt="gif do projeto" src="https://github.com/Gabrielfernandes87f/patins/blob/main/public/assets01/img/gabriel.gif">
 <br/>
 
 
