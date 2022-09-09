@@ -21,15 +21,9 @@
             <h2 data-aos="fade-up">
                 <p><strong>Fotógrafo Profissional</strong></p>
             </h2>
-            <h1 data-aos="zoom-in">Gabriel fernandes</h1>
-            <p><strong>Desenvolvedor FullStack/DevOps</strong></p>
-            <p><strong>Laravel - ✔</strong></p>
-{{--             @if (session('msg'))
-                <a data-aos="fade-up" data-aos-delay="200" href="/" class="btn-get-started">{{ session('msg') }}</a>
-            @else
-                <a data-aos="fade-up" data-aos-delay="200" href="/testimonials/create" class="btn-get-started ">Deixe seu
-                    Feedback</a>
-            @endif --}}
+            <h1 data-aos="zoom-in">Gabriel Fernandes</h1>
+            <p><strong>Nuxt.js | Vue.js | Laravel | SQL | Adonis.js</strong></p>
+            <p><strong>NuxtJs - ✔</strong></p>
         </div>
     </section><!-- End Hero -->
 
@@ -38,25 +32,7 @@
         <x-navbar />
     </header><!-- End Header -->
 
-
     <main id="main">
-
-
-        {{-- <div class="container marketing mt-5">
-                @if (count($albums) > 0)
-                <div class="row ">
-              @foreach ($albums as $album)
-            <div class="col-lg-4 image-main-capa">
-                <p><a href="/albums/{{ $album->id }}" role="button" >
-                     <img src="/img/album-capa/{{ $album->image_capa }}" class="bd-placeholder-img" width="200" role="img" alt="foto-capa">
-                </a></p>
-              <h2 class="name-image">{{ $album->name }}</h2>
-              <p class="description">{{ $album->description }}</p>
-              <p class="ver-galeria"><a class="btn btn-secondary" href="/albums/{{ $album->id }}" role="button">Ver album &raquo;</a></p>
-            </div><!-- /.col-lg-4 -->
-            @endforeach
-        </div><!-- /.row -->
-        @endif --}}
         <Style>
             .card-img {
                 width: 720;
@@ -226,16 +202,12 @@
         </div>
 
         <hr class="featurette-divider">
-
-
-
-
         <!-- ======= Portfolio Section ======= -->
         <section id="portfolio" class="portfolio">
             <div class="container">
 
                 <div class="section-title" data-aos="fade-up">
-                    <h2>Portfolio</h2>
+                    <h2>Portfólio</h2>
                 </div>
 
                 <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -264,19 +236,16 @@
                             <div class="bg-color">
                                 <p>Renally chagas</p>
                                 <h5 class="">Pré-wedding</h5>
-                                <p class="description">Tudo o que um sonho precisa para ser realizado é alguém que
-                                    acredite que ele possa ser realizado.</p>
+                                <p class="description">Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe.</p>
                             </div>
                         </div>
                     </div>
-
-
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-casamento">
                         <div class="portfolio-wrap">
                             <img src="/image/renally/renally-5.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
-                                <p>Ver album</p>
+                                <p>Ver álbum</p>
                                 <div class="portfolio-links">
                                     <a href="/albums" ></a>
                                 </div>
@@ -284,7 +253,7 @@
                             <div class="bg-color">
                                 <p>Renally chagas</p>
                                 <h5 class="">Casamento</h5>
-                                <p class="description">Para mim, a capacidade de sorrir é uma das mais belas características do ser humano.</p>
+                                <p class="description">Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe.</p>
                             </div>
                         </div>
                     </div>
@@ -302,7 +271,7 @@
                             <div class="bg-color">
                                 <p>Renally chagas</p>
                                 <h5 class="">Ensaio fotografico</h5>
-                                <p class="description">Ainda que haja noite no coração, vale a pena sorrir para que haja estrelas na escuridão.</p>
+                                <p class="description">Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe.</p>
                             </div>
                         </div>
                     </div>
@@ -327,8 +296,6 @@
 
             </div>
         </section><!-- End Portfolio Section -->
-
-
 
         <div id="testimonial" class="block">
             <div class="container">
@@ -360,33 +327,10 @@
             </div>
         </div>
 
-        <!--//EVENTOS-->
-        {{-- @if (count($albums) > 0)
-      @foreach ($albums as $album)
-    <div class="col-md-3 mb-5">
-        <div class="wsk-cp-product">
-          <div class="wsk-cp-img">
-              <a href="#">
-                  <img src="image/samuel/1.jpeg" alt="">
-              </a>
-          </div>
-          <div class="wsk-cp-text">
-            <div class="wsk-cp-content">
-                 <h3 class="wsk-cp-title">{{ $album->category }} </h3>
-                 <p class="wsk-cp-description">{{ $album->description }}</p>
-                 <a href="#" class="btn btn-primary text-center">Ver album</a>
-            </div>
-          </div>
-        </div>
-    </div>
-    @endforeach
-    @endif --}}
-
         <div class="container">
 
         </div>
         <hr class="featurette-divider">
-
 
     </main><!-- End #main -->
 
@@ -395,9 +339,6 @@
         <x-footer />
 
     </footer><!-- End Footer -->
-
-
-
 
 
 </body>

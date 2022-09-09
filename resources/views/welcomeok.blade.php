@@ -3,12 +3,7 @@
 
 <head>
 
-    <!-- =======================================================
-  * Template Name: Knight - v4.3.0
-  * Template URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+
 </head>
 
 <body>
@@ -36,21 +31,6 @@
 
         <link rel="/css/main.css" href="style.css">
 
-        {{-- <div class="container marketing mt-5">
-                @if (count($albums) > 0)
-                <div class="row ">
-              @foreach ($albums as $album)
-            <div class="col-lg-4 image-main-capa">
-                <p><a href="/albums/{{ $album->id }}" role="button" >
-                     <img src="/img/album-capa/{{ $album->image_capa }}" class="bd-placeholder-img" width="200" role="img" alt="foto-capa">
-                </a></p>
-              <h2 class="name-image">{{ $album->name }}</h2>
-              <p class="description">{{ $album->description }}</p>
-              <p class="ver-galeria"><a class="btn btn-secondary" href="/albums/{{ $album->id }}" role="button">Ver album &raquo;</a></p>
-            </div><!-- /.col-lg-4 -->
-            @endforeach
-        </div><!-- /.row -->
-        @endif --}}
         <Style>
             .card-img {
                 width: 720;
@@ -58,15 +38,12 @@
                 margin: 50px auto 0 auto;
 
             }
-
             .bg-color {
                 background-color: #e8e7e7;
                 padding: 8px;
             }
 
         </Style>
-
-
 
         <!-- START THE FEATURETTES -->
         <hr class="featurette-divider mt-4 mb-5">
@@ -123,11 +100,6 @@
             </div>
         </div>
 
-
-        <!--//EVENTOS-->
-
-
-
     </main><!-- End #main -->
 
     <!-- ======= Footer ======= -->
@@ -136,9 +108,6 @@
 
     </footer><!-- End Footer -->
 
-
-
-
     <script src="/assets01/vendor/aos/aos.js"></script>
     <script src="/assets01/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="/assets01/vendor/glightbox/js/glightbox.min.js"></script>
@@ -146,7 +115,6 @@
     <script src="/assets01/vendor/php-email-form/validate.js"></script>
     <script src="/assets01/vendor/swiper/swiper-bundle.min.js"></script>
 
-    <!-- Template Main JS File -->
     <script src="/assets01/js/main.js"></script>
 
 
