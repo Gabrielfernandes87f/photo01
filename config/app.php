@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://gabrielfernandesweb.online'),
+    'url' => env('APP_URL', 'https://1coder.tech'),
 
     'asset_url' => env('ASSET_URL', null),
 
